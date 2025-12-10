@@ -1,12 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riddham Acharya
+<h1 align="center">Hi 👋, I'm Riddham Acharya</h1>
 =======================================================================================================================================
 
-Passionate developer learning new technologies.
+Computer Engineering Student learning and exploring new things.
 -----------------------------------------------
 
-I am 18 years old and currently learning new things such as web development,backend and frontend, different language such as Python, C, e.t.c.
+I am a curious student ready to dive into new technologies, obsessed with building cool things on the web. I love coding in Python, C, and JavaScript, and I'm on a long-term grind to master ML and AI. Always learning, always shipping, and always chasing that next breakthrough.
 
-* 🌍  I'm based in Tilottama,Rupandehi,Nepal
+* 👨‍💻 Aspiring Software Engineer diving deep into web dev, ML, and AI.
+
+*🧠 Learning Python, C, HTML, CSS, JavaScript, and leveling up every day.
+
+*🚀 Passionate about building real-world projects and solving problems creatively.
+
+*📚 Big fan of productivity, self-improvement, and leveling up my skills.
+
+*⚡ Working toward mastering Machine Learning & Artificial Intelligence as my endgame.
+
+*💪 Stay active, stay focused — evening workouts keep my mind sharp.
+
 * ✉️  You can contact me at [myselfriddham@gmail.com](mailto:myselfriddham@gmail.com)
 
 ### Skills
