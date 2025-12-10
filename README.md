@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Riddham Acharya</h1>
-=======================================================================================================================================
 
 Computer Engineering Student learning and exploring new things.
 -----------------------------------------------
@@ -8,15 +7,15 @@ I am a curious student ready to dive into new technologies, obsessed with buildi
 
 * 👨‍💻 Aspiring Software Engineer diving deep into web dev, ML, and AI.
 
-*🧠 Learning Python, C, HTML, CSS, JavaScript, and leveling up every day.
+* 🧠 Learning Python, C, HTML, CSS, JavaScript, and leveling up every day.
 
-*🚀 Passionate about building real-world projects and solving problems creatively.
+* 🚀 Passionate about building real-world projects and solving problems creatively.
 
-*📚 Big fan of productivity, self-improvement, and leveling up my skills.
+* 📚 Big fan of productivity, self-improvement, and leveling up my skills.
 
-*⚡ Working toward mastering Machine Learning & Artificial Intelligence as my endgame.
+* ⚡ Working toward mastering Machine Learning & Artificial Intelligence as my endgame.
 
-*💪 Stay active, stay focused — evening workouts keep my mind sharp.
+* 💪 Stay active, stay focused — evening workouts keep my mind sharp.
 
 * ✉️  You can contact me at [myselfriddham@gmail.com](mailto:myselfriddham@gmail.com)
 
