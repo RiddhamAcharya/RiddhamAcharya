@@ -1,33 +1,88 @@
-<h1 align="center">Hi 👋, I'm Riddham Acharya</h1>
+# 👋 Hey, I’m Riddham Acharya
 
-Computer Engineering Student learning and exploring new things.
------------------------------------------------
+> *“Building skills like I’m building systems — one commit at a time.”*
 
-I am a curious student ready to dive into new technologies, obsessed with building cool things on the web. I love coding in Python, C, and JavaScript, and I'm on a long-term grind to master ML and AI. Always learning, always shipping, and always chasing that next breakthrough.
+---
 
-* 👨‍💻 Aspiring Software Engineer diving deep into web dev, ML, and AI.
+## 🚀 About Me
 
-* 🧠 Learning Python, C, HTML, CSS, JavaScript, and leveling up every day.
+I’m a Computer Engineering student from Nepal who’s genuinely obsessed with building things that actually matter. Most of my time goes into writing code, breaking things, fixing them, and slowly getting better without overthinking it.
 
-* 🚀 Passionate about building real-world projects and solving problems creatively.
+Right now, I’m on a long-term mission:
 
-* 📚 Big fan of productivity, self-improvement, and leveling up my skills.
+🧠 **Master Software Engineering + ML/AI**
+⚙️ Build real-world, production-ready projects
+🔥 Become insanely strong at problem solving
 
-* ⚡ Working toward mastering Machine Learning & Artificial Intelligence as my endgame.
+I don’t just want to “learn tech” — I want to ship things people actually use.
 
-* 💪 Stay active, stay focused.
+---
 
-* ✉️  You can contact me at [myselfriddham@gmail.com](mailto:myselfriddham@gmail.com)
+## 🧭 Current Focus
 
-### Skills
+* 🌐 Full Stack Web Development (MERN + beyond)
+* 🤖 Machine Learning & Artificial Intelligence
+* 🧩 Data Structures & Algorithms
+* 🛠️ Building real-world projects
+* ⚡ System thinking + clean code habits
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+## 🧠 Tech Stack (So Far)
 
+### Languages
 
-### Socials
+* Python 🐍
+* C ⚙️
+* C++
+* JavaScript ⚡
 
-<p align="left"> <a href="https://www.github.com/RiddhamAcharya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a> <a href="https://www.linkedin.com/in/RiddhamAcharya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture></a> </p>
+### Web
 
+* HTML, CSS
+* JavaScript
+
+### Tools
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 🛠️ What I’m Building
+
+I like projects that feel real — not just tutorial clones.
+
+* 🧾 Productivity tools
+* 📊 Data + ML mini projects
+* 🌐 Web apps that solve real problems
+* 🤖 AI experiments (slowly diving into chaos)
+
+---
+
+## 🎯 Long-Term Goal
+
+Become a strong Software Engineer + AI/ML engineer who can:
+
+* Build scalable systems
+* Understand real-world problems deeply
+* Ship useful products
+* Not just code… but actually solve things
+
+---
+
+## 📬 Contact Me
+
+* 📧 Email: [myselfriddham@gmail.com](mailto:myselfriddham@gmail.com)
+* 💼 LinkedIn: Riddham Acharya
+* 🐙 GitHub: RiddhamAcharya
+
+---
+
+## ⚡ Fun Fact
+
+I probably have 10 tabs open right now — a few tutorials, a couple of Stack Overflow pages, and the rest is me procrastinating but calling it “research.”
+
+---
+
+> *Still learning. Still building. Still not done.*
